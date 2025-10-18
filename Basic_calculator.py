@@ -9,3 +9,4 @@ if exp in operator:
     print(f"{operator[exp]} of {num1} and {num2} is: {result}")#result
 else:
     print("Please enter a valid expression (+, -, *, /)")
+    print("I have addeded a basic calculator for you! which is extra😁")
